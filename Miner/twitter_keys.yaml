@@ -1,0 +1,12 @@
+
+  search_tweets_30_day_dev:
+    account_type: premium
+    endpoint: https://api.twitter.com/1.1/tweets/search/30day/stest.json
+    consumer_key: Wa5xi8yfBZ4LihhpZp2KqzlOq
+    consumer_secret: JHZn4GSi08P6e2S71eRAOT2cDWBk0VrYbMwOg0XhzssOALbsDE
+
+  search_tweets_30_day_dev_alternate:
+    account_type: premium
+    endpoint: https://api.twitter.com/1.1/tweets/search/30day/TwitterFetcher.json
+    consumer_key: C0Q2slgd38EQUV82soOig68Uo
+    consumer_secret: JKJ0tVC8vnlDmVbvPT4BF67nx7r5VqnJTSPHMiGqJLo43bba3m
